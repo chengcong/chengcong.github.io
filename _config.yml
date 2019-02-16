@@ -1,12 +1,12 @@
-title: John Smith
+title: chengcong
 description: My Personal Blog
-author: John Smith
+author: chengcong
 logo: /hcz-jekyll-blog/static/img/avatar.png
-github: https://github.com/codeasashu
-about: Freelance developer
+github: https://github.com/chengcong
+about: chengcong developer
 
-baseurl: "https://codeasashu.github.io/hcz-jekyll-blog"
-url: "https://codeasashu.github.io/hcz-jekyll-blog"
+baseurl: "https://chengcong.github.io/"
+url: "https://chengcong.github.io/"
 
 allowsearch: true
 
